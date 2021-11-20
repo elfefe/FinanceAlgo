@@ -1,0 +1,2 @@
+# FinanceAlgo
+Jupyter yahoo finance
